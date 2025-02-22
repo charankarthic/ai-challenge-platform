@@ -1,1 +1,1 @@
-# ai-challenge-platform
+# ai-challenge-platformcd ~/Documents
