@@ -1,0 +1,15 @@
+📂 GenAI-Interactive-Learning-Games  
+ ├── 📂 src                 # Source code  
+ │   ├── 📂 models          # AI models and training scripts  
+ │   ├── 📂 game_logic      # Core game mechanics  
+ │   ├── 📂 ui              # Frontend or game interface  
+ │   ├── 📂 api             # Backend or API endpoints  
+ │   └── 📂 utils           # Helper functions  
+ ├── 📂 data                # Training datasets (if applicable)  
+ ├── 📂 docs                # Documentation, research notes  
+ ├── 📂 tests               # Unit tests for various modules  
+ ├── 📜 README.md           # Overview of the project  
+ ├── 📜 requirements.txt    # Dependencies (for Python projects)  
+ ├── 📜 .gitignore          # Ignore unnecessary files  
+ ├── 📜 LICENSE             # Open-source or proprietary license  
+ 
